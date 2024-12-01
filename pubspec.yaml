@@ -2,7 +2,6 @@ name: state_management_with_stream
 description: "This is a simple state management package based on streams (based on the BLoC state management model)"
 
 #publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-author: Long Lys <gnollys0808@gmail.com>
 version: 1.0.0+1
 repository: https://github.com/longly0808/StateManagement-with-stream-clone-bloc-
 environment:
